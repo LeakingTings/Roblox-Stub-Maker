@@ -6,8 +6,8 @@
 
 
 ## Examples
-![Image 1](Examples/Example1.png)
-![Image 2](Examples/Example2.png)
-![Image 3](Examples/Example3.png)
+![Image 1](Examples/example1.png)
+![Image 2](Examples/example2.png)
+![Image 3](Examples/example3.png)
 
 
