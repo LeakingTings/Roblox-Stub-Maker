@@ -6,8 +6,8 @@
 
 
 ## Examples
-![alt text](Examples/Example1.png)
-![alt text](Examples/Example2.png)
-![alt text](Examples/Example3.png)
+![alt text](Roblox-Stub-Maker/Examples/Example1.png)
+![alt text](Roblox-Stub-Maker/Examples/Example2.png)
+![alt text](Roblox-Stub-Maker/Examples/Example3.png)
 
 
